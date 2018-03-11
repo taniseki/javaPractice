@@ -14,7 +14,8 @@ public class Main {
 
 		if(tanaka.getHp()<=0){
 			System.out.println(tanaka.getName() + "は倒された");
-			System.out.println("今日は眠いので、そろそろ寝ます");
+			System.out.println("今日、そろそろ寝ます");
+			System.out.println("コンフリクトしたら修正して終わり");
 		}
 	}
 
